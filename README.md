@@ -1,4 +1,4 @@
-- Hi, I’m @sidjaved03; they/them
+- Hi, I’m @sidjaved03; she/her
 - I’m interested in analyzing data, developing and cybersecurity
 - I’m currently a CS student with a minor in business
 - Reach me at sidjaved03@gmail.com
